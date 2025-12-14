@@ -74,4 +74,3 @@ ROS 2 (Robot Operating System 2) Framework와 NVIDIA Isaac Sim의 물리 시뮬�
 | **Object Tracking** | 빨간색 객체의 면적 변화(거리)와 중심점 오차에 따른 조향/속도 제어 시연 |
 | **ROS Teleoperation** | 키보드 입력에 따른 즉각적인 로봇 반응 및 `cmd_vel` 메시지 통신 확인 |
 
-[시연 영상 YouTube 또는 GIF 링크]
